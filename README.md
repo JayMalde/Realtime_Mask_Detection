@@ -5,7 +5,7 @@
 * It captures the frontal face section of the face using haar cascade file.  
 * It predicts whether the person has wore a mask using a CNN model which has 92% accuracy.  
 
-### To Generate a model.h5 file use the following [face_mask_detection.ipynb](https://github.com/JayMalde/Realtime_Mask_Detection/blob/main/Copy_of_face_mask_detection.ipynb "face_mask_detection.ipynb") file. 
+### To Generate a model.h5 file use the following [face_mask_detection.ipynb](https://github.com/JayMalde/Realtime_Mask_Detection/blob/main/face_mask_detection.ipynb "face_mask_detection.ipynb") file. 
 
 ## Without Mask
 [![Without Mask](ss/1st.png)](https://github.com/JayMalde/Realtime_Mask_Detection "Without Mask")
